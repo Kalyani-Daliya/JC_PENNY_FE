@@ -1,3 +1,4 @@
+
 import Movies from "../components/Movies";
 import Poster from "../components/Poster";
 import React from 'react'
